@@ -1,5 +1,5 @@
 # Fake-Sora-Streamlit
- Fake Sora App based on Streamlit
+这个项目是一个使用 Streamlit 框架开发的 OpenAI-Sora 模拟系统的演示。该系统使用了 **[FakeSoraAPI](https://github.com/SoraWebui/FakeSoraAPI)** 作为请求接口，用于模拟 OpenAI-Sora 的功能。
 
 # 欢迎使用 OpenAI-Sora 模拟系统
 
